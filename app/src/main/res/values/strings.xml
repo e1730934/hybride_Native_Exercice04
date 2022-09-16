@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">exercice04</string>
+    <string name="temppokemonname">tempPokemonName</string>
+    <string name="image_du_pokemon">Image du pokemon</string>
 </resources>
